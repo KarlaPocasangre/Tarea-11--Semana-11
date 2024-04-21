@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1713673177 source:c:\users\karla\videos\universidad de sonsonate c1 2024\programacion 2\periodo 2\tareas\tarea11-karla estefany hernandez pocasangre\main.cpp
+	<iostream>
+	<stdlib.h>
+	"TrabajadorTiempoCompleto.h"
+	"TrabajadorPorHora.h"
+
+1713672466 c:\users\karla\videos\universidad de sonsonate c1 2024\programacion 2\periodo 2\tareas\tarea11-karla estefany hernandez pocasangre\trabajadortiempocompleto.h
+	"Trabajador.h"
+
+1713672042 c:\users\karla\videos\universidad de sonsonate c1 2024\programacion 2\periodo 2\tareas\tarea11-karla estefany hernandez pocasangre\trabajador.h
+	"Persona.h"
+
+1713672067 c:\users\karla\videos\universidad de sonsonate c1 2024\programacion 2\periodo 2\tareas\tarea11-karla estefany hernandez pocasangre\persona.h
+	<string.h>
+
+1713673386 c:\users\karla\videos\universidad de sonsonate c1 2024\programacion 2\periodo 2\tareas\tarea11-karla estefany hernandez pocasangre\trabajadorporhora.h
+	"Trabajador.h"
+
